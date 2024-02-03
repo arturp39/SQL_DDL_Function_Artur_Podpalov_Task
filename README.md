@@ -1,0 +1,1 @@
+# SQL_DDL_Function_Artur_Podpalov_Task
